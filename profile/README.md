@@ -1,10 +1,9 @@
 # NousWorks.ch
 
 <p align="center">
-  <img src="https://github.com/NousWorks-ch/.github/blob/main/profile/cover-art-nw.jpg" 
-       alt="Nousworks-ch Cover Art" 
-       width="100%" 
-       style="border-radius: 20px; overflow: hidden;">
+  <img src="https://raw.githubusercontent.com/NousWorks-ch/.github/main/profile/cover-art-nw.png"
+       alt="NousWorks.ch Cover Art"
+       width="100%">
 </p>
 
 Open-source derivations from real-world Architectural Systems & Data Engineering practice.
