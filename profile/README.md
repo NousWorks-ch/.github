@@ -1,4 +1,4 @@
-# NousWorks // Open Source
+# NousWorks.ch
 
 Open-source derivations from real-world Architectural Systems & Data Engineering practice.
 As an interface specialist, I connect the logic of complex systems to the physical reality of buildings.
@@ -14,7 +14,7 @@ Issues and pull requests are welcome. Please open an issue first to discuss prop
 
 ## Contact
 
-[hello@nousworks.ch](mailto:hello@nousworks.ch) · [GitHub](https://github.com/NousWorks-ch) · [nousworks.ch](https://nousworks.ch)
+[hello@nousworks.ch](mailto:hello@nousworks.ch) · [github.com/Raffa3l/Nousworks-ch](https://github.com/NousWorks-ch) · [nousworks.ch](https://nousworks.ch)
 
 ## License
 
