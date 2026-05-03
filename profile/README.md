@@ -14,7 +14,7 @@ Issues and pull requests are welcome. Please open an issue first to discuss prop
 
 ## Contact
 
-[hello@nousworks.ch](mailto:hello@nousworks.ch) · [github.com/Nousworks-ch](https://github.com/NousWorks-ch) · [nousworks.ch](https://nousworks.ch)
+[hello@nousworks.ch](mailto:hello@nousworks.ch) · [github.com/NousWorks-ch](https://github.com/NousWorks-ch) · [nousworks.ch](https://nousworks.ch)
 
 ## License
 
