@@ -1,7 +1,7 @@
 # NousWorks.ch
 
 <p align="center">
-  <img src="https://github.com/NousWorks-ch/.github/blob/main/profile/horizon-travel-nw.jpg" alt="Nousworks-ch Cover Art" width="80%">
+  <img src="https://github.com/NousWorks-ch/.github/blob/main/profile/horizon-travel-nw.jpg" alt="Nousworks-ch Cover Art" width="100%">
 </p>
 
 Open-source derivations from real-world Architectural Systems & Data Engineering practice.
