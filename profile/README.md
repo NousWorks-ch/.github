@@ -1,7 +1,7 @@
 # NousWorks.ch
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NousWorks-ch/.github/main/profile/cover-art-nw.png"
+  <img src="https://github.com/NousWorks-ch/.github/blob/main/profile/cover-art-nw.jpg"
        alt="NousWorks.ch Cover Art"
        width="100%">
 </p>
