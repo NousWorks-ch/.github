@@ -1,5 +1,9 @@
 # NousWorks.ch
 
+<p align="center">
+  <img src=".github/profile/horizon-travel-nw.jpg" alt="Nousworks-ch Cover Art" width="80%">
+</p>
+
 Open-source derivations from real-world Architectural Systems & Data Engineering practice.
 As an interface specialist, I connect the logic of complex systems to the physical reality of buildings.
 
