@@ -1,10 +1,6 @@
 # NousWorks.ch
 
-<p align="center">
-  <img src="https://github.com/NousWorks-ch/.github/blob/main/profile/cover-art-nw.jpg"
-       alt="NousWorks.ch Cover Art"
-       width="100%">
-</p>
+![NousWorks.ch Cover Art](cover-art-nw.jpg)
 
 Open-source derivations from real-world Architectural Systems & Data Engineering practice.
 As an interface specialist, I connect the logic of complex systems to the physical reality of buildings.
