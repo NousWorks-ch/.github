@@ -1,6 +1,6 @@
-# NousWorks.ch
+# NousWorks
 
-![NousWorks.ch Cover Art](cover-art-nw.jpg)
+![NousWorks.org Cover Art](cover-art-nw.jpg)
 
 Open-source derivations from real-world Architectural Systems & Data Engineering practice.
 As an interface specialist, I connect the logic of complex systems to the physical reality of buildings.
@@ -20,4 +20,4 @@ Issues and pull requests are welcome. Please open an issue first to discuss prop
 
 ## Contact
 
-hello [aet] nousworks.ch · [github.com/NousWorks-ch](https://github.com/NousWorks-ch) · [nousworks.ch](https://nousworks.ch)
+hello [aet] nousworks.org · [github.com/NousWorks-ch](https://github.com/NousWorksHQ) · [nousworks.org](https://nousworks.org)
