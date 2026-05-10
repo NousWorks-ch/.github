@@ -20,4 +20,4 @@ Issues and pull requests are welcome. Please open an issue first to discuss prop
 
 ## Contact
 
-hello [aet] nousworks.org · [github.com/NousWorks-ch](https://github.com/NousWorksHQ) · [nousworks.org](https://nousworks.org)
+hello [aet] nousworks.org · [github.com/NousWorksHQ](https://github.com/NousWorksHQ) · [nousworks.org](https://nousworks.org)
