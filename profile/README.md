@@ -7,7 +7,10 @@ As an interface specialist, I connect the logic of complex systems to the physic
 
 ## Projects
 
-- **[WINTERSTROMLUECKE-2050](https://github.com/NousWorksHQ/Winterstromluecke-2050)**  
+-**[SIA180-THERMAL-COMFORT.v01](https://github.com/NousWorksHQ/sia180-thermal-comfort)**  
+  Interactive visualization of indoor thermal comfort according to the Swiss standard SIA 180:2014
+  
+- **[WINTERSTROMLUECKE-2050.v01](https://github.com/NousWorksHQ/Winterstromluecke-2050)**  
   Influence of Scenarios for Space Heating and Domestic Hot Water in Buildings on the Winter Electricity Demand of Switzerland in 2050
 
 ## License
