@@ -1,4 +1,4 @@
-# NousWorks
+# NousWorks.org
 
 ![NousWorks.org Cover Art](cover-art-nw.jpg)
 
