@@ -7,7 +7,7 @@ As an interface specialist, I connect the logic of complex systems to the physic
 
 ## Projects
 
-- **[WINTERSTROMLUECKE-2050](https://github.com/NousWorks-ch/Winterstromluecke-2050)**  
+- **[WINTERSTROMLUECKE-2050](https://github.com/NousWorksHQ/Winterstromluecke-2050)**  
   Influence of Scenarios for Space Heating and Domestic Hot Water in Buildings on the Winter Electricity Demand of Switzerland in 2050
 
 ## License
