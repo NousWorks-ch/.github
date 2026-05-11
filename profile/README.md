@@ -3,7 +3,7 @@
 ![NousWorks.org Cover Art](cover-art-nw.jpg)
 
 As an interface specialist, I connect the logic of complex systems to the physical reality of buildings.
-Works published under the NousWorks framework is open source, drawn from daily practice.
+Works published under the NousWorks framework are open source, drawn from daily practice.
 
 ## Projects
 
@@ -23,7 +23,7 @@ Issues and pull requests are welcome. Please open an issue first to discuss prop
 
 ## Language
 
-Works in this repository is published in either English or German.
+Works in these repositories are published in either English or German.
 
 ## Contact
 
