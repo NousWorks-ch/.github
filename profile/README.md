@@ -2,8 +2,8 @@
 
 ![NousWorks.org Cover Art](cover-art-nw.jpg)
 
-Open-source derivations from real-world Architectural Systems & Data Engineering practice.
 As an interface specialist, I connect the logic of complex systems to the physical reality of buildings.
+Work published under the NousWorks framework is open source, drawn from daily practice.
 
 ## Projects
 
@@ -20,6 +20,10 @@ Each repository contains a `LICENSE` file in its root directory. The terms state
 ## Contributing
 
 Issues and pull requests are welcome. Please open an issue first to discuss proposed changes.
+
+## Language / Sprache
+
+Work in this repository is published in either English or German.
 
 ## Contact
 
