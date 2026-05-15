@@ -15,6 +15,8 @@ Works published under the NousWorks framework are open source, drawn from daily 
   - [ALG_ROLLING_MEAN] Logic: Calculates 48h rolling average of temp_oa (SIA 180 baseline).
   - [META_TAGGING] Logic: Maps season labels for color-coded plot traces.
   - [RESULT] Output: Standardized comfort data tuple for Plotly visualization.
+ 
+  [ID: NWSX-002]
 
 - **[WINTERSTROMLUECKE-2050.v01](https://github.com/NousWorksHQ/Winterstromluecke-2050)**  
   Influence of Scenarios for Space Heating and Domestic Hot Water in Buildings on the Winter Electricity Demand of Switzerland in 2050
@@ -24,6 +26,8 @@ Works published under the NousWorks framework are open source, drawn from daily 
   - [ALG_SIMULATION] Logic: Computation of hourly residual load profiles based on winter weather constraints.
   - [VISUALIZATION] Logic: Real-time update of load-gap deltas using Plotly/JS integration.
   - [RESULT] Output: Comparative scenario analysis of Switzerland's 2050 winter electricity deficit (Gap measurement).
+
+  [ID: NWSX-001]
 
 ## License
 
