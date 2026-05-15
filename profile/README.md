@@ -26,8 +26,8 @@ Issues and pull requests are welcome. Please open an issue first to discuss prop
 Works in these repositories are published in either English or German.
 
 ## System Infrastructure
-- [Primary Core] [nousworks.org](https://nousworks.org)
-- [Exec & Research Layer] [nwsx.org](https://nwsx.org)
+- Primary Core [nousworks.org](https://nousworks.org)
+- Exec & Research Layer [nwsx.org](https://nwsx.org)
 
 ## Contact
 
